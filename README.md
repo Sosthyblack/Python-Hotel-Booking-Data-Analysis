@@ -6,6 +6,27 @@
 
 This project uses Python and Pandas to clean and explore a hotel booking dataset. The goal is to identify data quality issues, investigate booking cancellation patterns, and provide useful business recommendations for hotel management.
 
+## Dataset
+
+**Dataset Name:** Hotel Booking Demand
+
+**Dataset File:** hotel_bookings.csv
+
+**Source Reference:** António, N., Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. Data in Brief, 22, 41–49.
+
+**Research Article:** https://doi.org/10.1016/j.dib.2018.11.126
+
+The dataset contains booking records from a resort hotel and a city hotel, including booking cancellations, lead times, guest information and reservation details.
+
+For this project, the dataset was analysed using Python and Pandas to:
+
+- Investigate missing values and data quality issues.
+- Identify 31,994 potential duplicate records for further investigation.
+- Remove invalid booking records.
+- Explore booking cancellation patterns and business insights.
+
+The dataset file used for this analysis is included in this GitHub repository as `hotel_bookings.csv`.
+
 
 
 ## Tools Used
